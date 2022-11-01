@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
     ─「 TG-WhatsApp 」─
-</h1>
+</h2>
 
 > Get WhatsApp Messages On Telegram And Reply From Telegram!
 
@@ -65,9 +65,9 @@ For detailed instructions on how to deploy and run your own bot, refer [this wik
 
 - This Project Is [Apache-2.0](https://github.com/tuhinpal/WhatsBot/blob/main/LICENSE) Licensed
 
-<h2 align="center">
+<h3 align="center">
     ─「 Support & Updates 」─
-</h2>
+</h3>
 
 <div align="center">
 
