@@ -23,7 +23,7 @@ A solution for the same would be using a bridge between both the apps. Yes, I kn
     ─「 Deploy With Heroku 」─
 </h3>
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9URy1XaGF0c0FwcCBtYWlu "Deploy with Heroku")<br>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/TG-WhatsApp"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 Config Variables 」─
