@@ -20,7 +20,7 @@ Being an active telegram user and a person who don't like to use Whatsapp, but s
 A solution for the same would be using a bridge between both the apps. Yes, I know this already [exists](https://github.com/WhatsGram/WhatsGram), but unfortunately its not handling the group messages like what i was expecting. So I decided to create a similar one with multidevice support from [Tuhin's WhatApp userbot](https://github.com/tuhinpal/WhatsBot). In short you can call it as a fork of both [WhatsGram](https://github.com/WhatsGram/WhatsGram) and [WhatsBot](https://github.com/tuhinpal/WhatsBot). ~~I know , you know a better name , but still i love to call it as a fork. :/~~
 
 <h3 align="center">
-    ─「 Deploy With Heroku 」─
+    ─「 Deployment 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/TG-WhatsApp"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
