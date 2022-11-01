@@ -1,0 +1,38 @@
+{
+  "name": "whatsbot",
+  "version": "3.0.0",
+  "description": "Realtime integration of WhatsApp <-> Telegram",
+  "main": "main.js",
+  "scripts": {
+    "start": "node startProcess.js",
+    "gentoken": "node session/genToken.js",
+    "gentokenwithdownload": "node session/genTokenWithDownload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AL3X-Github/TG-WhatsApp"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "telegram",
+    "bridge"
+  ],
+  "author": "I𝗓υɱi 和泉",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AL3X-Github/TG-WhatsApp/issues"
+  },
+  "homepage": "https://github.com/AL3X-Github/TG-WhatsApp#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "aes-encrypt-stream": "^0.2.0",
+    "axios": "^0.21.0",
+    "dotenv": "^10.0.0",
+    "mongodb": "^3.6.3",
+    "qr-image": "^3.2.0",
+    "qrcode-svg": "^1.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "telegraf": "^4.10.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}

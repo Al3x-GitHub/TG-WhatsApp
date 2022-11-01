@@ -1,0 +1,33 @@
+{
+  "name": "TG-WhatsApp",
+  "description": "Realtime bridge between WhatsApp -Telegram.",
+  "repository": "https://github.com/subinps/TG-WhatsApp",
+  "keywords": ["telegram", "whatsapp-bot", "whatsapp"],
+  "stack": "container",
+  "env": {
+    "SESSION_KEY": {
+      "description": "Session encryption password",
+      "value": ""
+    },
+    "SESSION_URL": {
+      "description": "session.secure public url (It is safe because it is encrypted, But still if you want maybe you can create some sort of authorization stuff)",
+      "value": ""
+    },
+    "PM_REPLY": {
+      "description": " Make it false if you don't want bot to send an automated message when someone DM for first time.",
+      "value": "true"
+    },
+    "MONGODB_URL": {
+      "description": "MongoDB URL, Get it for free from cloud.mongodb.com",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "telegram bot token from @Botfather",
+      "value": "true"
+    },
+    "OWNER_ID": {
+      "description": "your telegram ID",
+      "value": ""
+    }
+  }
+}
