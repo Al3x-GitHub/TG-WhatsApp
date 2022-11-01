@@ -63,7 +63,7 @@ For detailed instructions on how to deploy and run your own bot, refer [this wik
     ─「 License 」─
 </h3>
 
-- This Project Is [Apache-2.0](https://github.com/tuhinpal/WhatsBot/blob/main/LICENSE) Licensed
+- This Project Is [Apache-2.0](https://github.com/AL3X-Github/TG-WhatsApp/blob/main/LICENSE) Licensed
 
 <h3 align="center">
     ─「 Support & Updates 」─
