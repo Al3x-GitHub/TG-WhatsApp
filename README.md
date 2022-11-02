@@ -66,7 +66,7 @@ For detailed instructions on how to deploy and run your own bot, refer [this wik
 - This Project Is [Apache-2.0](https://github.com/AL3X-Github/TG-WhatsApp/blob/main/LICENSE) Licensed
 
 <h3 align="center">
-    ─「 Support & Updates 」─
+    ─「 Support & Updates  」─
 </h3>
 
 <div align="center">
@@ -74,7 +74,7 @@ For detailed instructions on how to deploy and run your own bot, refer [this wik
 <p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
 
 
-![Cover](https://te.legra.ph/file/601cfb397a19f503c9265.jpg)
+![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
 
 </div>
 
@@ -85,8 +85,10 @@ For detailed instructions on how to deploy and run your own bot, refer [this wik
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
+<h6>
 
-© **Copyright Holder :** [**Maxim X Bots**](https://telegram.dog/MaximXBots)
+**Copyright 2022 :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot) 
 
+</h6>
 </div>
 
